@@ -31,9 +31,9 @@ export const robots = [
   },
   {
     id: 6,
-    name: 'Mrs. Dennis Schulist',
-    username: 'Leopoldo_Corkery',
-    email: 'Karley_Dach@jasper.info'
+    name: ' Mr. Ashu',
+    username: 'Ashu Kumar',
+    email: 'ashuk1545@gmail.com'
   },
   {
     id: 7,
